@@ -25,7 +25,7 @@
 * Attending ASU
 * Working at Intel
 
-# People that I want to email 
+# People that I need to email about my future career
 Steve Richardson, ICS
 Patrick Shone, ICS
 Daniel Jurafsky

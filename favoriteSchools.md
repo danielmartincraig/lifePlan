@@ -1,69 +1,87 @@
 # Places where we could live after graduation in April
-
 ## Boulder, CO
-1. Attending grad school at:
+### Attending grad school at:
 * CU Boulder
-2. Working at:
+### Working at:
 * Google, Zoom
 * See https://www.builtincolorado.com/2017/10/24/top-100-digital-companies-colorado-2017
 
 ## Austin, TX
-1. Attending grad school at:
+### Attending grad school at:
 * UT Austin
-2. Working at:
+### Working at:
 * Blackbaud, DUO, CognitiveScale, Signpost, New Knowledge
 
+## Pittsburgh, PA
+### Attending grad school at:
+* CMU
+### Working at:
+* PNC, Google, Microsoft
+
 ## Cambridge, MA
-1. Attending grad school at:
+### Attending grad school at:
 * MIT
-2. Working at:
+### Working at:
 * Any company of hundreds
 
 ## Urbana-Champaigne
-1. Attending grad school at:
+### Attending grad school at:
 * University of Illinois at Urbana-Champaigne
-2. Working at:
+### Working at:
 * Wolfram, Yahoo, Oath
 
-## Lehi, Utah
-1. Attending grad school at:
+## Tempe, AZ
+### Attending grad school at:
+* ASU
+### Working at:
+* Amazon, Apple, Banks, Intel, etc
+
+## Lehi or Provo, Utah
+### Attending grad school at:
 * U of U 
 * BYU
-2. Working at:
+### Working at:
 * FamilySearch
 
 ## Columbia, SC
-1. Attending grad school at:
+### Attending grad school at:
 * University of South Carolina
-2. Working at:
+### Working at:
 * Remote
 
+## Logan, UT
+### Attending grad school at:
+* Utah State
+### Working at:
+* Space Dynamics, Thermo Fisher, etc.
+
 ## Clemson, SC
-1. Attending grad school at:
+### Attending grad school at:
 * Clemson University
-2. Working at:
+### Working at:
 * Remote
 
 ## Hillsboro, OR
-1. Attending grad school at:
+### Attending grad school at:
 * Not attending
-2. Working at:
+### Working at:
 * Intel
 
 ## Santa Clara, CA
-1. Attending grad school at:
+### Attending grad school at:
 * Stanford
-2. Working at:
+### Working at:
 * Intel Santa Clara
 
 ## Mesa AZ
-1. Attending grad school at:
+### Attending grad school at:
 * ASU
-2. Working at:
+### Working at:
 * Intel
 
+
 # People that I need to email about my future career
-Steve Richardson, ICS
-Patrick Shone, ICS
-Daniel Jurafsky
-The professor at ASU who wrote oxford book #4
+* Steve Richardson, ICS
+* Patrick Shone, ICS
+* Daniel Jurafsky, UC Boulder
+* Andrew Carnie, UofA
